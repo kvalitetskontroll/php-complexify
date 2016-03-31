@@ -8,7 +8,7 @@ namespace Complexify;
 
 class Complexify
 {
-    private static $MIN_COMPLEXITY = 49; // 12 chars with Upper, Lower and Number
+    private static $MIN_COMPLEXITY = 30; // 12 chars with Upper, Lower and Number
     private static $MAX_COMPLEXITY = 120; //  25 chars, all charsets
     private static $CHARSETS = array(
         // Commonly Used
